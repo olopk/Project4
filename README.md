@@ -1,0 +1,1 @@
+Just another project in pursue of mastering html, css and js.
